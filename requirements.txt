@@ -23,4 +23,5 @@ image==1.5.33
 ipykernel==6.29.4
 ipython==7.31.1
 plotly==5.10.0
+Streamlit==1.37.0
 
