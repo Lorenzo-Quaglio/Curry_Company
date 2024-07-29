@@ -21,10 +21,11 @@ GitPython==3.1.43
 idna==3.7
 image==1.5.33
 ipykernel==6.29.4
-ipython==7.31.1
+ipython==8.13.0
 plotly==5.10.0
-streamlit==1.10.0
+streamlit==1.11.1
 streamlit_folium==0.8.1
 haversine==2.5.1
+
 
 
